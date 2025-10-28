@@ -972,4 +972,5 @@ export default function MagicDiary() {
                       {completed}개 완료
                     </div>
                   )}
-                </div>
+
+                </div>)
