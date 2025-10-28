@@ -973,4 +973,5 @@ export default function MagicDiary() {
                     </div>
                   )}
 
-                </div>)
+                </div>))))
+
